@@ -16,7 +16,7 @@ print ('\x1b[0;36;40m' + '''
 | )     | )   ( |___) (___/\____) | )   ( | (____/\ ) \ \__  | )   ( | )   ( | )  \  |  
 |/      |/     \|\_______/\_______)/     \|_______//   \__/  |/     \|/     \|/    )_)  
 
-This is a gift from mr.FD
+This is a gift from 
 ''''\x1b[0m')
 input = raw_input
 
@@ -25,23 +25,18 @@ os.system("clear")
 if yn =="Y" or yn=="y":
    print ('\x1b[1;37;40m' +'''
                                                                                                       
-MMMMMMMM               MMMMMMMM                            FFFFFFFFFFFFFFFFFFFFFFDDDDDDDDDDDDD        
-M:::::::M             M:::::::M                            F::::::::::::::::::::FD::::::::::::DDD     
-M::::::::M           M::::::::M                            F::::::::::::::::::::FD:::::::::::::::DD   
-M:::::::::M         M:::::::::M                            FF::::::FFFFFFFFF::::FDDD:::::DDDDD:::::D  
-M::::::::::M       M::::::::::Mrrrrr   rrrrrrrrr             F:::::F       FFFFFF  D:::::D    D:::::D 
-M:::::::::::M     M:::::::::::Mr::::rrr:::::::::r            F:::::F               D:::::D     D:::::D
-M:::::::M::::M   M::::M:::::::Mr:::::::::::::::::r           F::::::FFFFFFFFFF     D:::::D     D:::::D
-M::::::M M::::M M::::M M::::::Mrr::::::rrrrr::::::r          F:::::::::::::::F     D:::::D     D:::::D
-M::::::M  M::::M::::M  M::::::M r:::::r     r:::::r          F:::::::::::::::F     D:::::D     D:::::D
-M::::::M   M:::::::M   M::::::M r:::::r     rrrrrrr          F::::::FFFFFFFFFF     D:::::D     D:::::D
-M::::::M    M:::::M    M::::::M r:::::r                      F:::::F               D:::::D     D:::::D
-M::::::M     MMMMM     M::::::M r:::::r                      F:::::F               D:::::D    D:::::D 
-M::::::M               M::::::M r:::::r                    FF:::::::FF           DDD:::::DDDDD:::::D  
-M::::::M               M::::::M r:::::r             ...... F::::::::FF           D:::::::::::::::DD   
-M::::::M               M::::::M r:::::r             .::::. F::::::::FF           D::::::::::::DDD     
-MMMMMMMM               MMMMMMMM rrrrrrr             ...... FFFFFFFFFFF           DDDDDDDDDDDDD    
 
+ __       __       ______   __      __   ______  
+/  \     /  |     /      \ /  \    /  | /      \ 
+$$  \   /$$ |    /$$$$$$  |$$  \  /$$/ /$$$$$$  |
+$$$  \ /$$$ |    $$ |__$$ | $$  \/$$/  $$ |  $$ |
+$$$$  /$$$$ |    $$    $$ |  $$  $$/   $$ |  $$ |
+$$ $$ $$/$$ |    $$$$$$$$ |   $$$$/    $$ |  $$ |
+$$ |$$$/ $$ | __ $$ |  $$ | __ $$ | __ $$ \__$$ |
+$$ | $/  $$ |/  |$$ |  $$ |/  |$$ |/  |$$    $$/ 
+$$/      $$/ $$/ $$/   $$/ $$/ $$/ $$/  $$$$$$/  
+                                                 
+                                                 
 now our project started 
 This tool is made for kali linux 
 ===================================  
